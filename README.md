@@ -1,6 +1,6 @@
 # Core Java Evaluation - Revature
-🕙 Due: **10:00am June 4th, 2021**
-> Make sure that you have commited and pushed your work to your personal repository before 10:00am on June 4th. You should continuously integrate your work with the following command:
+🕙 Due: **10:00am Sept. 10th, 2021**
+> Make sure that you have commited and pushed your work to your personal repository before 10:00am on Sept 10th. You should continuously integrate your work with the following command:
 
 ```git
 	git add .
